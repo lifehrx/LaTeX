@@ -10,4 +10,5 @@
 ![resume](./lifehrx_resume(无照片版).png) 
 
 #### LaTex图标官网pdf
+fontawesome.pdf
 
